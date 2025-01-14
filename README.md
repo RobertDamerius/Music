@@ -5,6 +5,7 @@ Guitar tabs and backing tracks can also be found here.
 ## Overview
 | Year of Release | Name                                                  |
 | :-------------- | :---------------------------------------------------- |
+| 2025            | [Ignition](2025_Ignition/)                            |
 | 2023            | [Reflection](2023_Reflection/)                        |
 | 2020            | [Voyager](2020_Voyager/)                              |
 | 2014            | [Last Resort](2014_LastResort/)                       |
